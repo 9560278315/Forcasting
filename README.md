@@ -39,7 +39,9 @@ Date	Sales order
 Tools use- I have used excel tool for this project.
 
 Finally-
-analyze data and find out R squire value that is 0.558.
+Analyze data and find out R squire value that is 0.558.
 R value is greater than 50% so we can say that model is good.
+
+
 Forcast sales for date of 08-01-2024 that is 38.
 ![image](https://github.com/9560278315/Forcasting/assets/141981119/e1a81a05-5963-4d37-9833-21915e210168)
